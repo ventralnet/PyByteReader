@@ -1,2 +1,2 @@
-from PyByteReader.byte_reader import PyByteReader
+from PyByteReader.byte_reader import ByteReader
 
