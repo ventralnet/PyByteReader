@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'PyByteReader',
   packages = ['PyByteReader'],
-  version = '0.1',     
+  version = '0.2',     
   license='MIT',   
   description = 'Provides utilities to read bytes from an open binary file (big endian is assumed)',
   author = 'Matthew Kirkley',
   author_email = 'matt.kirkley@gmail.com',
   url = 'https://github.com/ventralnet/PyByteReader',
-  download_url = 'https://github.com/ventralnet/PyByteReader/archive/refs/tags/v_01.tar.gz',
+  download_url = 'https://github.com/ventralnet/PyByteReader/archive/refs/tags/v_02.tar.gz',
   keywords = ['BINARY', 'BYTES', 'FILE', 'FILE UTILITIES', 'FILE UTIL', 'FILE', 'FILE UTILS'],
   install_requires=[],
   classifiers=[
